@@ -52,7 +52,7 @@ $n = 100{,}000$, and get different answers.
 Has the estimator converged? **Justify your answer from features of the plot**, not from the value
 it appears to settle at.
 
-![](figs/hw1-convergence.png){width=85%}
+![](figs/hw2-convergence.png){width=85%}
 
 **(b) (2 points)** Mark each statement **true** or **false**. For each false statement, correct it in
 a phrase.
